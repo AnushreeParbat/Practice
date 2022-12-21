@@ -5,7 +5,8 @@ import AddTask from "./components/AddTask";
 import Swal from "sweetalert2";
 import Footer from "./components/Footer";
 import { Fetch_URL } from "./constants";
-
+// hi this is app.js
+// this is component
 function App() {
   const [showAddTasks, setShowAddTasks] = useState(false);
   const [tasks, setTasks] = useState([
