@@ -1,0 +1,11 @@
+{
+    "integration": false,
+    "fixturesFolder": false,
+    "video": false,
+    "viewportWidth": 1280,
+    "viewportHeight": 1024,
+    "component": {
+        "componentFolder": "src/components",
+        "testFiles": "*.spec.js"
+    }
+}
